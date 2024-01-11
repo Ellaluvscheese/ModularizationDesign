@@ -1,0 +1,3 @@
+# Overview
+
+This is my journey and learning process through my BYU-Idaho class CSE 131, Modularization Design. Through this class I was able to grow as a developer in my thinking and design of my software projects. In this repository, I have projects that taught me the importance of testing my code as I go, the importance of designing my system/software before building it, and learning how to implement different sorting designs while keeping and maintaining the best possible efficiency. 
